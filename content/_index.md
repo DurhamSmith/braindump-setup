@@ -1,19 +1,15 @@
 +++
 title = "Index"
-author = ["Jethro Kuan"]
-lastmod = 2020-05-29T21:44:03+08:00
+author = ["Durham Smith"]
+lastmod = 2023-04-30T21:44:03+08:00
 type = "index"
 draft = false
 +++
 
 # Hi! {#hi}
 
-I'm [Jethro](https://www.jethro.dev/), and you've chanced upon my braindump.
-This website contains my working notes accumulated over some years. They're in a
-really messy transition state: most of them are literature notes, and there are
-close to no conceptual notes, which I intend to start taking soon.
+I'm [Durham](https://www.durhamsmith.org/). I'm interested in nanotechnology, artificial intelligence, human movement, and the world in general.
 
-I also haven't made good entry-points to my brain yet, but you can start hopping
-around by going to the [full index](/posts/).
+I primarily use this site to catalog my notes and thinking on things. Here is a full [full index](/posts/) of my notes.
 
 Have fun!

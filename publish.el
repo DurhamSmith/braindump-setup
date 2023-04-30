@@ -9,3 +9,5 @@
     (setq org-hugo-base-dir "..")
     (let ((org-id-extra-files (find-lisp-find-files org-roam-directory "\.org$")))
       (org-hugo-export-wim-to-md))))
+
+(jethro/publish "/home/user/org/greg_meetings/2023-04-29/dna_cnt_linkers.org")
