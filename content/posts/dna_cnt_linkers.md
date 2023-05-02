@@ -4,10 +4,18 @@ author = ["Durham Smith"]
 draft = false
 +++
 
+## Overview {#overview}
+
 In all successful approaches with high yeilds of attaching CNT:DNA to DNA nanostructures<sup><a href="#citeproc_bib_item_1">1</a>–<a href="#citeproc_bib_item_3">3</a></sup> or to crosslink multiple CNT with a defined separation<sup><a href="#citeproc_bib_item_4">4</a></sup> a double stranded region was incorporated into the strand which is used to solubalize the CNT. The double stranded linker region helps overcome the issus of slow desorbtion kinetics of DNA on SWNTs <sup><a href="#citeproc_bib_item_5">5</a></sup> by preventing adsorption to the SWNT's side wall. These structured DNA are complexes are called  _linkers_ and are comprised of two different strands. The first of these is **L<sub>Dispersal</sub>** which contains a region of nucleotides intended to wrap around the sidewall of a CNT through &pi;-&pi; stacking. The second is **L<sub>Protection</sub>** which contains a region of nucleotides intended to form a double helix with some nucleotides in L<sub>Dispersal</sub> which are not adsorbed to the sidewall of the CNT.
 
 
-## References {#references}
+## Dispersal Domain {#dispersal-domain}
+
+
+## Protection Domain {#protection-domain}
+
+
+## Binding Domain {#binding-domain}
 
 ## References
 

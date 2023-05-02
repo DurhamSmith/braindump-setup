@@ -36,4 +36,9 @@
           (all-org-file-in-directory directory)))
 
 
+(durham/publish "/home/user/org/greg_meetings/2023-04-29/yifeng_s_sheet.org")
+(durham/publish "/home/user/org/greg_meetings/2023-04-29/using_phosphorothiotate_nucleotides_to_make_carbon_nanotube_dna_quantum_dot_hybrids.org")
+(durham/publish "/home/user/org/greg_meetings/2023-04-29/sample_2023_04_23_yifeng_sheet_col_14_extensions.org")
+
+
 (publish-all-org-file-in-directory "/home/user/org/greg_meetings/2023-04-29/")
