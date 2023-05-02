@@ -4,6 +4,9 @@ author = ["Durham Smith"]
 draft = false
 +++
 
+{{< figure src="/ox-hugo/CNT-T21-G10.png" >}}
+
+
 ## Materials {#materials}
 
 -   [Sample: sheet-qd strand IDT]({{< relref "sample_sheet_qd_strand_idt.md" >}})

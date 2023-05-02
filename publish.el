@@ -37,8 +37,8 @@
 
 
 ;; (durham/publish "/home/user/org/greg_meetings/2023-04-29/yifeng_s_sheet.org")
-;; (durham/publish "/home/user/org/greg_meetings/2023-04-29/using_phosphorothiotate_nucleotides_to_make_carbon_nanotube_dna_quantum_dot_hybrids.org")
-;; (durham/publish "/home/user/org/greg_meetings/2023-04-29/sample_2023_04_23_yifeng_sheet_col_14_extensions.org")
-
+(durham/publish "/home/user/org/greg_meetings/2023-04-29/using_phosphorothioate_nucleotide_staple_extensions_to_bind_cadmium_quantum_dots_to_dna_origami.org")
+(durham/publish "/home/user/org/greg_meetings/2023-04-29/Individual_Meeting_2023_05_02.org")
+(durham/publish "/home/user/org/greg_meetings/2023-04-29/creating_carbon_nanotube_quantum_dot_dna_nanostructure_hybrids_using_divalent_quantum_dots.org")
 
 (publish-all-org-file-in-directory "/home/user/org/greg_meetings/2023-04-29/")
