@@ -1,18 +1,18 @@
 +++
-title = "Using Phosphorothiotate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids"
+title = "Using Phosphorothioate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids"
 author = ["Durham Smith"]
 draft = false
 +++
 
 This idea make use of the fact [Cadmium Quantum Dots Have an Affinity for Phosphorothioate Nucleotides in CNT:DNA]({{< relref "cadmium_quantum_dots_have_an_affinity_for_phosphorothioate_nucleotides_in_cnt_dna.md" >}}).
 
-Bascially in this scheme [DNA can be used to solubilize Carbon Nanotubes]({{< relref "dna_can_be_used_to_solubilize_carbon_nanotubes.md" >}}). The DNA used to solubilize could contain phosphorothiotate, as was done by Campell et al.<sup><a href="#citeproc_bib_item_1">1</a></sup>. The difference here is instead of using only phosphorothiotate nucleotides at the end of strands to place QDs as fiducial markers for determining the pitch of DNA wrapped around CNTs many more phosphorothiotate nucleotides could be incorporated into the strand, as can be seen in figure [1](#figure--fig:CNT-Phosphorothiotate-DNA-QD-Scheme).
+Bascially in this scheme [DNA can be used to solubilize Carbon Nanotubes]({{< relref "dna_can_be_used_to_solubilize_carbon_nanotubes.md" >}}). The DNA used to solubilize could contain phosphorothiotate, as was done by Campell et al.<sup><a href="#citeproc_bib_item_1">1</a></sup>. The difference here is instead of using only phosphorothiotate nucleotides at the end of strands to place QDs as fiducial markers for determining the pitch of DNA wrapped around CNTs many more phosphorothiotate nucleotides could be incorporated into the strand, as can be seen in figure [1](#figure--fig:CNT-Phosphorothioate-DNA-QD-Scheme).
 
 The position and number of the phosphorothiotate nucleotides in the strand could be used to control density and spacing of CdTe Quantum Dots. These scheme has the advantage of possibly being able to bring QDs in closer proximity to CNTs than what could be achieved by DNA hybridization.
 
-<a id="figure--fig:CNT-Phosphorothiotate-DNA-QD-Scheme"></a>
+<a id="figure--fig:CNT-Phosphorothioate-DNA-QD-Scheme"></a>
 
-{{< figure src="/ox-hugo/CNT-Phosphorothiotate-DNA-QD-Scheme.png" caption="<span class=\"figure-number\">Figure 1: </span>Schematic of Using Phosphorothiotate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids" >}}
+{{< figure src="/ox-hugo/CNT-Phosphorothioate-DNA-QD-Scheme.png" caption="<span class=\"figure-number\">Figure 1: </span>Schematic of Using Phosphorothioate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids" >}}
 
 
 ## Experiments I've done on this so far {#experiments-i-ve-done-on-this-so-far}

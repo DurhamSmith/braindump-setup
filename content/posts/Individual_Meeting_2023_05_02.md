@@ -6,9 +6,9 @@ draft = false
 
 ## Current Experiments {#current-experiments}
 
--   [Discuss Sheet:QD All Extensions With QDs Attached To Sheet Via Hybridization]({{< relref "2023_05_02_sheet_qd_all_extensions_with_qds_attached_to_sheet_via_hybridization.md" >}})
--   [Discuss Sheet:QD All Extensions With Qds Attached To Sheet Via Phosphorothiotate Nucleotide Affinity For Cadmium]({{< relref "2023_05_02_sheet_qd_all_extensions_with_qds_attached_to_sheet_via_phosphorothiotate_nucleotide_affinity_for_cadmium.md" >}})
--   Discuss [Using Phosphorothiotate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids]({{< relref "using_phosphorothiotate_nucleotides_to_make_carbon_nanotube_dna_quantum_dot_hybrids.md" >}})
+-   Discuss [Using Phosphorothioate Nucleotides Staple Extensions to Bind Cadmium Quantum Dots to DNA Origami]({{< relref "using_phosphorothioate_nucleotide_staple_extensions_to_bind_cadmium_quantum_dots_to_dna_origami.md" >}})
+-   Discuss [Watson-Crick Bonding of QD:DNA to DNA Origami]({{< relref "watson_crick_bonding_of_qd_dna_to_dna_origami.md" >}})
+-   Discuss [Using Phosphorothioate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids]({{< relref "using_phosphorothioate_nucleotides_to_make_carbon_nanotube_dna_quantum_dot_hybrids.md" >}})
 -   CNT-DNA bonding
 
 

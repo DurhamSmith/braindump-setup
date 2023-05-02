@@ -1,5 +1,5 @@
 +++
-title = "Sample: 2023-04-26 Ultracentrifugation 50k Yifeng Sheet All Extensions Plus Phosphorothioate Nucleotides Extensiosn"
+title = "Sample: 2023-04-26 Ultracentrifugation 50k Yifeng Sheet All Extensions Plus Phosphorothioate Nucleotides Extensions"
 author = ["Durham Smith"]
 draft = false
 +++
