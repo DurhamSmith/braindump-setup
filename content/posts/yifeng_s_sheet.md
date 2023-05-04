@@ -22,7 +22,7 @@ The origami sheet is 83 nm x 89nm and can be seen in figure [1](#figure--fig:yif
 
 ## Calculations {#calculations}
 
-The inner diameter of the sheet, when rolled up as a tube is ~26.65nm as calculated in code snippet [1](#org0564d7e)
+The inner diameter of the sheet, when rolled up as a tube is ~26.65nm as calculated in code snippet [1](#org50d4297)
 
 <a id="code-snippet--code:sheet-inner-diameter"></a>
 ```lisp

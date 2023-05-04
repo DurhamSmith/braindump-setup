@@ -28,6 +28,10 @@ draft = false
 
 This scheme can be seen in figure [1](#figure--fig:TMSD-CNT-QD) and uses the same scheme as done in the paper "Self-assembly of Carbon Nanotubes into Two-dimensional Geometries using DNA Origami Templates" <sup><a href="#citeproc_bib_item_1">1</a></sup>.
 
+In this scheme the toehold consisitng of LNA is used as done in<sup><a href="#citeproc_bib_item_1">1</a></sup>.  LNA was used for the toehold as it has been show to increase branch migration efﬁciency <sup><a href="#citeproc_bib_item_2">2</a></sup> and LNA–DNA duplexes are more stable than their DNA counterparts. Additionally quote [1](#org28466f2) gives additional justification for the use of LNA toeholds.
+
+> LNA versus DNA toeholds. We have found that, under the conditions reported above, 5 nucleotide LNA toeholds give good results. We have been unable to ﬁnd conditions under which 7 and 8 nucleotide DNA toeholds give good results; they resulted in cross-linking of SWNTs or aggregation. For some experiments, 5 nucleotide DNA toeholds were used and SWNT-origami binding and alignment was observed but with poor yield. However, conditions and sequences for the use of 5 nucleotide DNA toeholds were not optimized and so conditions under which less expensive, short, DNA toeholds (5 or 6 nucleotides) give good yields of cross-junctions may be found. In addition to its role as a stronger binding toehold, LNA may also be advantageous in this system because its constrained backbone may give it a lower intrinsic afﬁnity for SWNTs<sup><a href="#citeproc_bib_item_1">1</a></sup>
+
 <a id="figure--fig:TMSD-CNT-QD"></a>
 
 {{< figure src="/ox-hugo/dna-cnt-tmsd-zip-maune-09-sequences.png" caption="<span class=\"figure-number\">Figure 1: </span>CNT:QD Formed via TMSD and Zip Bonds. Red nucleotides indicate locked nucleic acids." >}}
@@ -109,7 +113,7 @@ This scheme can be seen in figure [2](#figure--fig:CNT-QD-Classical-Bond). This 
 
 ## CNT:Origami using 2 Step Hybridization and Classic Bond {#cnt-origami-using-2-step-hybridization-and-classic-bond}
 
-This scheme can be seen in figure [3](#figure--fig:CNT-Origami-2-Step-Classic-Bond). This scheme uses the L<sub>Dispersion</sub> strand as the previous two schemes but the protection strand is now extended to be able to bind CNTs in a scheme similar to Sun et al<sup><a href="#citeproc_bib_item_2">2</a></sup>.
+This scheme can be seen in figure [3](#figure--fig:CNT-Origami-2-Step-Classic-Bond). This scheme uses the L<sub>Dispersion</sub> strand as the previous two schemes but the protection strand is now extended to be able to bind CNTs in a scheme similar to Sun et al<sup><a href="#citeproc_bib_item_3">3</a></sup>.
 There is also allowence for a 4nt single stranded region in the staple extenios from the origami as done in Maune et al<sup><a href="#citeproc_bib_item_1">1</a></sup>.
 
 <a id="figure--fig:CNT-Origami-2-Step-Classic-Bond"></a>
@@ -122,8 +126,8 @@ There is also allowence for a 4nt single stranded region in the staple extenios 
 -   Having much lower linker density than reported
 -   Insertion of T<sub>6</sub> sequence in the original 'hook' strand used for strand displacement
     -   To allow some flexibiltiy around the QD because with a zip bond there could be significant steric hindrance between CNT and QD.
--   17nt Origami binding sequence (vs 14 is in<sup><a href="#citeproc_bib_item_2">2</a></sup>)
--   20nt 'protection domain' (vs 16 is in<sup><a href="#citeproc_bib_item_2">2</a></sup>)
+-   17nt Origami binding sequence (vs 14 is in<sup><a href="#citeproc_bib_item_3">3</a></sup>)
+-   20nt 'protection domain' (vs 16 is in<sup><a href="#citeproc_bib_item_3">3</a></sup>)
 
 
 ### Key differences vs what weve tried: {#key-differences-vs-what-weve-tried}
@@ -151,7 +155,7 @@ There is also allowence for a 4nt single stranded region in the staple extenios 
 
 ## Using Short Phosphorothioate Strands to Form CNT:QDs {#using-short-phosphorothioate-strands-to-form-cnt-qds}
 
-Vogel el al. <sup><a href="#citeproc_bib_item_3">3</a></sup> found that a combination of (GT)<sub>3</sub> + and (AC)<sub>6</sub> were best able to suspend CNT. Using the fact [Cadmium Quantum Dots Have an Affinity for Phosphorothioate Nucleotides in CNT:DNA]({{< relref "cadmium_quantum_dots_have_an_affinity_for_phosphorothioate_nucleotides_in_cnt_dna.md" >}}) I want to try suspending CNTs with (GT)<sub>3</sub> + and (AC)<sub>6</sub> which have [Phosphorothioate Nucleotides]({{< relref "phosphorothioate_nucleotides.md" >}}) and combine these with [CdTe Quantum Dots]({{< relref "cdte_quantum_dots.md" >}}) to create DNA:QD hybrids
+Vogel el al. <sup><a href="#citeproc_bib_item_4">4</a></sup> found that a combination of (GT)<sub>3</sub> + and (AC)<sub>6</sub> were best able to suspend CNT. Using the fact [Cadmium Quantum Dots Have an Affinity for Phosphorothioate Nucleotides in CNT:DNA]({{< relref "cadmium_quantum_dots_have_an_affinity_for_phosphorothioate_nucleotides_in_cnt_dna.md" >}}) I want to try suspending CNTs with (GT)<sub>3</sub> + and (AC)<sub>6</sub> which have [Phosphorothioate Nucleotides]({{< relref "phosphorothioate_nucleotides.md" >}}) and combine these with [CdTe Quantum Dots]({{< relref "cdte_quantum_dots.md" >}}) to create DNA:QD hybrids
 
 -   Needed Strands
     -   A\*C\*A\*C\*A\*C
@@ -169,9 +173,12 @@ Vogel el al. <sup><a href="#citeproc_bib_item_3">3</a></sup> found that a combin
     <div class="csl-left-margin">1.</div><div class="csl-right-inline">Maune, H. T. <i>et al.</i> <a href="https://doi.org/10.1038/nnano.2009.311">Self-assembly of carbon nanotubes into two-dimensional geometries using dna origami templates</a>. <i>Nature nanotechnology</i> <b>5</b>, 61–66 (2009).</div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">Sun, W. <i>et al.</i> <a href="https://doi.org/10.1126/science.aaz7440">Precise pitch-scaling of carbon nanotube arrays within three-dimensional dna nanotrenches</a>. <i>Science</i> <b>368</b>, 874–877 (2020).</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">CHRISTENSEN, U., JACOBSEN, N., RAJWANSHI, V. K., WENGEL, J. &#38; KOCH, T. <a href="https://doi.org/10.1042/bj3540481">Stopped-flow kinetics of locked nucleic acid (lna)-oligonucleotide duplex formation: Studies of lna-dna and dna-dna interactions</a>. <i>Biochemical journal</i> <b>354</b>, 481–484 (2001).</div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
-    <div class="csl-left-margin">3.</div><div class="csl-right-inline">Vogel, S. R., Kappes, M. M., Hennrich, F. &#38; Richert, C. <a href="https://doi.org/10.1002/chem.200600988">An unexpected new optimum in the structure space of dna solubilizing single-walled carbon nanotubes</a>. <i>Chemistry - a european journal</i> <b>13</b>, 1815–1820 (2007).</div>
+    <div class="csl-left-margin">3.</div><div class="csl-right-inline">Sun, W. <i>et al.</i> <a href="https://doi.org/10.1126/science.aaz7440">Precise pitch-scaling of carbon nanotube arrays within three-dimensional dna nanotrenches</a>. <i>Science</i> <b>368</b>, 874–877 (2020).</div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Vogel, S. R., Kappes, M. M., Hennrich, F. &#38; Richert, C. <a href="https://doi.org/10.1002/chem.200600988">An unexpected new optimum in the structure space of dna solubilizing single-walled carbon nanotubes</a>. <i>Chemistry - a european journal</i> <b>13</b>, 1815–1820 (2007).</div>
   </div>
 </div>
