@@ -6,7 +6,7 @@ draft = false
 
 To attach [QD:DNA]({{< relref "qd_dna.md" >}}) to [DNA Origami]({{< relref "dna_origami.md" >}}) we could use traditional hybridization between two DNA strands. A schematic of this can be seen in figure [1](#figure--fig:sheet-qd-hybridization).
 
-Both [Zip Bonds]({{< relref "dna_bond_types.md#zip-bonds" >}}) and [Classic Bonds]({{< relref "dna_bond_types.md#classic-bonds" >}}) could be used.
+Both [Zip Bonds]({{< relref "dna_bond_types.md#zip-bond" >}}) and [Classic Bonds]({{< relref "dna_bond_types.md#classic-bond" >}}) could be used.
 
 <a id="figure--fig:sheet-qd-hybridization"></a>
 

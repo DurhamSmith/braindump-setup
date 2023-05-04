@@ -8,8 +8,8 @@ A [CNT:DNA Staggered Linker]({{< relref "cnt_dna_staggered_linker.md" >}}) (figu
 
 1.  Assemble staggered linker
 2.  Disperse CNTs with staggered linker to form CNT:DNA
-3.  Attach CNT:DNA to DNA origami through [Classic Bonds]({{< relref "dna_bond_types.md#classic-bonds" >}}) (see figure [2](#figure--fig:CNT-DNA-Staggered-Linker-CNT-Only))
-4.  Attach QDs through [Zip Bonds]({{< relref "dna_bond_types.md#zip-bonds" >}}) (see figure [3](#figure--fig:CNT-DNA-Staggered-Linker-Full-Assembly))
+3.  Attach CNT:DNA to DNA origami through [Classic Bonds]({{< relref "dna_bond_types.md#classic-bond" >}}) (see figure [2](#figure--fig:CNT-DNA-Staggered-Linker-CNT-Only))
+4.  Attach QDs through [Zip Bonds]({{< relref "dna_bond_types.md#zip-bond" >}}) (see figure [3](#figure--fig:CNT-DNA-Staggered-Linker-Full-Assembly))
 
 <a id="figure--fig:cnt-dna-staggered-linker"></a>
 

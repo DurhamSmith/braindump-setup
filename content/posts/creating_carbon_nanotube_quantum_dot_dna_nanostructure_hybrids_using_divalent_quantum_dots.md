@@ -6,7 +6,7 @@ draft = false
 
 1.  Create a Divalent Quantum Dot (placing the phosphorothioate region in the middle of the strand used in the synthesis of the [QD:DNA]({{< relref "qd_dna.md" >}}))<sup><a href="#citeproc_bib_item_1">1</a></sup>
 2.  Purify via Ultracentrifugation to remove excess DNA strands from QDs
-3.  Form a [Zip Bonds]({{< relref "dna_bond_types.md#zip-bonds" >}}) between QD:DNA and CNT:DNA (figure [1](#figure--fig:dna-cnt-tmsd-linker-distance-zip))
+3.  Form a [Zip Bonds]({{< relref "dna_bond_types.md#zip-bond" >}}) between QD:DNA and CNT:DNA (figure [1](#figure--fig:dna-cnt-tmsd-linker-distance-zip))
 4.  Purify via Ultracentrifugation to remove excess QDs from CNT:DNA:QD
 5.  Incubate with DNA Nanostructure forming Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids (figure [2](#figure--fig:cnt-divalent-qd-dna-origami))
 
