@@ -1,5 +1,5 @@
 +++
-title = "Sample: sheet-qd strand IDT"
+title = "Material: sheet-qd strand IDT"
 author = ["Durham Smith"]
 draft = false
 +++

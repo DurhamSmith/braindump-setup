@@ -1,5 +1,5 @@
 +++
-title = "Sample: 2023 04 26 Ultracentrifugation 50k Yifeng Sheet Col 14 Extensions With DNA:CNTs"
+title = "Sample: 2023-04-26 Ultracentrifugation 50k Yifeng Sheet Col 14 Extensions With DNA:CNTs"
 author = ["Durham Smith"]
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Sample: 2023 04 23 Yifeng Sheet All Extensions"
+title = "Sample: 2023-04-23 Yifeng Sheet All Extensions"
 author = ["Durham Smith"]
 draft = false
 +++

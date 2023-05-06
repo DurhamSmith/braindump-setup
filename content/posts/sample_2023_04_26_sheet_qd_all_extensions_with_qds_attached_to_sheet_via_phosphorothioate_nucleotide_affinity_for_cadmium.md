@@ -1,5 +1,5 @@
 +++
-title = "Sample: 2023 04 26 Sheet:QD All Extensions With Qds Attached To Sheet Via Phosphorothioate Nucleotide Affinity For Cadmium"
+title = "Sample: 2023-04-26 Sheet:QD All Extensions With Qds Attached To Sheet Via Phosphorothioate Nucleotide Affinity For Cadmium"
 author = ["Durham Smith"]
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Sample: 2023 04 26 Sheet:QD All Extensions With QDs Attached To Sheet via Watson-Crick Base Pairing"
+title = "Sample: 2023-04-26 Sheet:QD All Extensions With QDs Attached To Sheet via Watson-Crick Base Pairing"
 author = ["Durham Smith"]
 draft = false
 +++

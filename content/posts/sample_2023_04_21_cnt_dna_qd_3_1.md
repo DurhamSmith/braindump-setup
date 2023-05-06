@@ -1,5 +1,5 @@
 +++
-title = "Sample: 2023 04 21 CNT:DNA:QD 3:1"
+title = "Sample: 2023-04-21 CNT:DNA:QD 3:1"
 author = ["Durham Smith"]
 draft = false
 +++
