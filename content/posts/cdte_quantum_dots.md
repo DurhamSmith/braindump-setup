@@ -26,4 +26,7 @@ draft = false
 
 ## Extinction Coefficient(Yu et al. 2003) {#extinction-coefficient--yu-et-al-dot-2003}
 
+\\[\epsilon = 3450\DeltaE(D)^{2.4}\\]
+or
 \\[\epsilon = 10043(D)^{2.12}\\]
+Where \\[\epsilon=10^5 \text{cm}^{-1}M^{-1}\\]

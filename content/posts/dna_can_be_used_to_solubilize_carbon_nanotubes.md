@@ -9,6 +9,13 @@ See <sup><a href="#citeproc_bib_item_1">1</a>,<a href="#citeproc_bib_item_2">2</
 
 ## Typical CNT Weights and DNA Amounts Used When Creating CNT:DNA {#typical-cnt-weights-and-dna-amounts-used-when-creating-cnt-dna}
 
+| Paper      | CNT Weight | DNA Concentration                  | Buffer Vol  | Buffer Composition                        |
+|------------|------------|------------------------------------|-------------|-------------------------------------------|
+| Zheng 2003 | 1mg        | 1 mg/ml                            | 1ml         | 0.1M NaCl                                 |
+| Vogel 2007 | 0.5mg      | 0.74mM (~ 0.22mg/ml)               | 1ml         | 0.1M NaCl, 10 mm phosphate buffer, pH 7.0 |
+| Maune 2009 | 1mg        | 33-36uM (~ 0.645579 mg/ml I think) | 400-600uL   | 0.1M NaCl                                 |
+| Sun 2020   | 0.1        | 25uM (~0.466255mg/ml I think)      | Unspecified | 1× TBE and 100 mM NaCl at pH 8.3          |
+
 ## References
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}

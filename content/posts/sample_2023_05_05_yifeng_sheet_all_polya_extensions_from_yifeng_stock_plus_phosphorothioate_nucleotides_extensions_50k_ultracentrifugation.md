@@ -6,7 +6,7 @@ draft = false
 
 ## Materials {#materials}
 
--   40 stock solution from Yifeng containing
+-   60 stock solution from Yifeng containing
     -   All A<sub>21</sub> extensions
     -   No Locks for tube formation
     -   20nM M13

@@ -1,8 +1,10 @@
 +++
-title = "Sample: 2023-05-05 Yifeng Sheet All Extensions Plus Phosphorothioate Nucleotides Extensions*This did not work very well, see the outcome of the Gel, figure 1 Lane 2*"
+title = "Sample: 2023-05-05 Yifeng Sheet All Extensions Plus Phosphorothioate Nucleotides Extensions"
 author = ["Durham Smith"]
 draft = false
 +++
+
+**This did not work very well, see the outcome of the Gel, figure [1](#figure--fig:gel-results) Lane 2**
 
 The material made here is [Yifeng's Sheet]({{< relref "yifeng_s_sheet.md" >}}) with all A<sub>21</sub> extensions, see figure [2](#figure--fig:sheet-all-14-exts).
 
