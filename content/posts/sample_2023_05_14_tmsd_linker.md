@@ -15,15 +15,14 @@ draft = false
 
 ## Protocol {#protocol}
 
-To make 1uL of Linker at 33uM
+To make 1mL of Linker at 33uM
 
 1.  Mix:
     -   110uL [Material: IDT Strand 2023-05-04 TMS-dispersal-with-LNA]({{< relref "material_idt_strand_2023_05_04_tmsd_dispersal_with_lna.md" >}})
     -   120uL [Material: IDT Strand 2023-05-04 TMSD-Protection]({{< relref "material_idt_strand_2023_05_04_tmsd_protection.md" >}})
-    -   100uL 1M NaCl
     -   10uL 1M Mg2+
     -   10uL 1M Tris (pH 8)
-    -   650uL diH2O
+    -   750uL diH2O
 2.  Anneal
     -   95 ◦ C to 20 ◦ C at 1 ◦ C per minute.
 
@@ -68,3 +67,5 @@ The required transfer volume is: 1.20000004e-4
 ```text
 The required transfer volume is: 1.0000001e-5
 ```
+
+[Sample: 2023-05-15 TMSD Linker]({{< relref "sample_2023_05_15_tmsd_linker.md" >}})

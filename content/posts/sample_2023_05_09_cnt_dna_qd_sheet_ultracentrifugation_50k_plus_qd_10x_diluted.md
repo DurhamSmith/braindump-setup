@@ -10,3 +10,8 @@ draft = false
 -   16mL buffer
     -   17uL 1M HEPES
     -   6uL Mg2+
+
+![](/ox-hugo/AFM_2023-05-10-CNT-QD-10x_0.jpg)
+![](/ox-hugo/AFM_2023-05-10-CNT-QD-10x_1.jpg)
+![](/ox-hugo/AFM_2023-05-10-CNT-QD-10x_1_height.jpg)
+![](/ox-hugo/AFM_2023-05-10-CNT-QD-10x_2.jpg)

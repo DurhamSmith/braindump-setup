@@ -20,10 +20,12 @@ draft = false
 ## Protocol {#protocol}
 
 1.  Mix
-    -   83.33uL
+    -   83.33uL [Material: IDT Strand 2023-05-04 TMSD-dispersal-with-LNA]({{< relref "material_idt_strand_2023_05_04_tmsd_dispersal_with_lna.md" >}})
     -   'Small flake' [Material: 2023-03-14 CNT from Francois]({{< relref "material_2023_03_14_cnt_from_francois.md" >}})
-    -   100uL 1M NaCl
-    -   10uM
+    -   20uL 5M NaCl
+    -   10uL 1M Tris
+    -   10uL 1M Mg2+
+    -   `0.00087667006`  = 8776.67uL diH2O
 
 2.  Sonicate in ice at 60% power
 

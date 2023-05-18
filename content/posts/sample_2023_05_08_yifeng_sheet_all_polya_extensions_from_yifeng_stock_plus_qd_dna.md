@@ -26,3 +26,6 @@ draft = false
 
 [Sample: 2023-05-08 Yifeng Sheet Row Only PolyA Extensions From Yifeng Stock]({{< relref "sample_2023_05_08_yifeng_sheet_row_only_polya_extensions_from_yifeng_stock.md" >}})\* Calulations
 Yifengs stock is already at 12.5mM Mg2+ so we need the 50uL of QD:DNA to also be a 12.5mM Mg which means the addition of 6.25e-7 1M Mg2+
+
+![](/ox-hugo/AFM_2023-05-09-Tile+QD-DNA_0.jpg)
+![](/ox-hugo/AFM_2023-05-09-Tile+QD-DNA_1.jpg)

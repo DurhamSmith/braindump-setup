@@ -32,3 +32,6 @@ draft = false
     -   Have 28 staples that sheet-qd needs to bind to
         -   Need  `2.8e-10` mols of sheet-qd
         -   This is 2.8uL of [Material: sheet-qd strand IDT]({{< relref "material_sample_sheet_qd_strand_idt.md" >}}) `2.8e-10`
+
+![](/ox-hugo/AFM_2023-05-08-Tile+Qds-Overnight-0.jpg)
+![](/ox-hugo/AFM_2023-05-08-Tile+Qds-Overnight-1.jpg)

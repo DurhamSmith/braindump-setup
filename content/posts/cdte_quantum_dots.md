@@ -13,7 +13,7 @@ draft = false
 ## Size estimates {#size-estimates}
 
 
-### Based on (Yu et al. 2003) {#based-on--yu-et-al-dot-2003}
+### Based on <sup><a href="#citeproc_bib_item_1">1</a></sup> {#based-on}
 
 ```lisp
 (let* ((wavelength 647.197)
@@ -24,9 +24,23 @@ draft = false
 ```
 
 
-## Extinction Coefficient(Yu et al. 2003) {#extinction-coefficient--yu-et-al-dot-2003}
+## Extinction Coefficient<sup><a href="#citeproc_bib_item_1">1</a></sup> {#extinction-coefficient}
 
 \\[\epsilon = 3450\DeltaE(D)^{2.4}\\]
 or
 \\[\epsilon = 10043(D)^{2.12}\\]
 Where \\[\epsilon=10^5 \text{cm}^{-1}M^{-1}\\]
+
+
+## Conversion of cadmium precursors to the cadmium atoms in the form of nanocrystals {#conversion-of-cadmium-precursors-to-the-cadmium-atoms-in-the-form-of-nanocrystals}
+
+The conversion factor of the cadmium precursors to the cadmium atoms in the form of nanocrystals generally varied dramatically, from about 10 to 90%. Typically, the conversion factor increased with the increaseof the size of the nanocrystals if the synthetic conditions were similar.<sup><a href="#citeproc_bib_item_1">1</a></sup>
+
+## References
+
+<style>.csl-left-margin{float: left; padding-right: 0em;}
+ .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
+    <div class="csl-left-margin">1.</div><div class="csl-right-inline">Yu, W. W., Qu, L., Guo, W. &#38; Peng, X. <a href="https://doi.org/10.1021/cm034081k">Experimental determination of the extinction coefficient of cdte, cdse, and cds nanocrystals</a>. <i>Chemistry of materials</i> <b>15</b>, 2854–2860 (2003).</div>
+  </div>
+</div>
