@@ -27,9 +27,9 @@ draft = false
 
 -   Make Origami + CNT:DNA with lower CNT concentration and lower and higher sheet concentration
 -   Characterize
-    -   [Sample: 2023-05-16 CNT:AT6-GT6 Retentate + QD Retentate]({{< relref "sample_2023_05_16_cnt_at6_gt6_retentate_qd_retentate.md" >}})
-    -   [Sample: 2023-05-16 CNT:AT6-GT6 Supernatant + QD Retentate]({{< relref "sample_2023_05_16_cnt_at6_gt6_supernatant_qd_retentate.md" >}})
-    -   [Sample: 2023-05-16 CNT:AT6-GT6 Supernatant + QD Filtrate]({{< relref "sample_2023_05_16_cnt_at6_gt6_supernatant_qd_filtrate.md" >}})
+    -   [Sample: 2023-05-16 CNT:AT6-GT6 Retentate + QD Retentate]({{< relref "sample_2023_05_16_cnt_ac6_gt6_retentate_qd_retentate.md" >}})
+    -   [Sample: 2023-05-16 CNT:AT6-GT6 Supernatant + QD Retentate]({{< relref "sample_2023_05_16_cnt_ac6_gt6_supernatant_qd_retentate.md" >}})
+    -   [Sample: 2023-05-16 CNT:AT6-GT6 Supernatant + QD Filtrate]({{< relref "sample_2023_05_16_cnt_ac6_gt6_supernatant_qd_filtrate.md" >}})
 -   Make origami sheets with phosphorothiated NT extensions and QDs (both filtrate and retentate) with higher concentrations of QDs and
 -   Try better estimate QD concentration with <sup><a href="#citeproc_bib_item_1">1</a></sup>
 
