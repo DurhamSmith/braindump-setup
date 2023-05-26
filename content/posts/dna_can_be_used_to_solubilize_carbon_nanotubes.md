@@ -7,6 +7,14 @@ draft = false
 See <sup><a href="#citeproc_bib_item_1">1</a>,<a href="#citeproc_bib_item_2">2</a></sup>
 
 
+## CNT:DNA Has a Negative Charge {#cnt-dna-has-a-negative-charge}
+
+The phosphate groups on a DNA-CNT hybrid provide a negative charge density on the surface of the carbon nanotube,the distribution of which should be a function of the DNA sequence and electronic property of the
+tube.
+
+Everything else being equal, DNA-metallic CNT is predicted to have less surface charge than DNA-semiconducting CNT due to the opposite image charge created in the metallic tube. Ion-exchange liquid chromatography could be used sort CNT types based on this <sup><a href="#citeproc_bib_item_2">2</a></sup>
+
+
 ## Typical CNT Weights and DNA Amounts Used When Creating CNT:DNA {#typical-cnt-weights-and-dna-amounts-used-when-creating-cnt-dna}
 
 | Paper      | CNT Weight | DNA Concentration                  | Buffer Vol  | Buffer Composition                        |

@@ -10,6 +10,9 @@ draft = false
 -   [NaCl Blueshifts CdTe Quantum Dots]({{< relref "nacl_blueshifts_cdte_quantum_dots.md" >}})
 
 
+## MPA Capped CdTe Quantum Dots have a negative charge {#mpa-capped-cdte-quantum-dots-have-a-negative-charge}
+
+
 ## Size estimates {#size-estimates}
 
 
