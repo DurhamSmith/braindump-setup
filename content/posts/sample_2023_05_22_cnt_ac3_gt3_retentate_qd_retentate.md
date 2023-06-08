@@ -4,6 +4,11 @@ author = ["Durham Smith"]
 draft = false
 +++
 
+## Scheme {#scheme}
+
+{{< figure src="/ox-hugo/CNT-Phosphorothioate-DNA-QD-Scheme.png" >}}
+
+
 ## Materials {#materials}
 
 -   [Sample: 2023-05-16 CNT:AT6-GT6 Filtered 100k]({{< relref "sample_2023_05_16_cnt_ac6_gt6_filtered_100k.md" >}})
@@ -77,4 +82,18 @@ draft = false
 ![](/ox-hugo/2023-05-23-QD-Retentate-CNT-Retentate_0068.jpg)
 ![](/ox-hugo/2023-05-23-QD-Retentate-CNT-Retentate_0069.jpg)
 ![](/ox-hugo/2023-05-23-QD-Retentate-CNT-Retentate_0070.jpg)
-g
+
+
+## LVEM5 Images {#lvem5-images}
+
+![](/ox-hugo/20230601-CNTR-QDR-000001.jpg)
+![](/ox-hugo/20230601-CNTR-QDR-202307.jpg)
+![](/ox-hugo/20230601-CNTR-QDR-3.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000012.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000010.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000006.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000005.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000004.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000003.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000002.jpg)
+![](/ox-hugo/CNTR-QDR-ACGT-000001.jpg)
