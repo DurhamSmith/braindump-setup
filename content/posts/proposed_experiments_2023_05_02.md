@@ -24,13 +24,13 @@ draft = false
     -   **Sequence:** G\*T\*G\*T\*G\*T
 
 
-## [CNT:QD Formed Via Zip Bond and Toehold Mediated Strand Diplacement]({{< relref "cnt_qd_formed_via_zip_bond_and_toehold_mediated_strand_diplacement.md" >}}) {#cnt-qd-formed-via-zip-bond-and-toehold-mediated-strand-diplacement--cnt-qd-formed-via-zip-bond-and-toehold-mediated-strand-diplacement-dot-md}
+## [CNT:QD Formed Via Zip Bond and Toehold Mediated Strand Diplacement]({{< relref "experimental_approach_cnt_qd_formed_via_zip_bond_and_toehold_mediated_strand_diplacement.md" >}}) {#cnt-qd-formed-via-zip-bond-and-toehold-mediated-strand-diplacement--experimental-approach-cnt-qd-formed-via-zip-bond-and-toehold-mediated-strand-diplacement-dot-md}
 
 
-## [CNT:QD Formed Via Classic Bond and Toehold Mediated Strand Diplacement]({{< relref "cnt_qd_formed_via_classic_bond_and_toehold_mediated_strand_diplacement.md" >}}) {#cnt-qd-formed-via-classic-bond-and-toehold-mediated-strand-diplacement--cnt-qd-formed-via-classic-bond-and-toehold-mediated-strand-diplacement-dot-md}
+## [CNT:QD Formed Via Classic Bond and Toehold Mediated Strand Diplacement]({{< relref "experimental_approach_cnt_qd_formed_via_classic_bond_and_toehold_mediated_strand_diplacement.md" >}}) {#cnt-qd-formed-via-classic-bond-and-toehold-mediated-strand-diplacement--experimental-approach-cnt-qd-formed-via-classic-bond-and-toehold-mediated-strand-diplacement-dot-md}
 
 
-## [CNT:Origami using 2 Step Hybridization and Classic Bond]({{< relref "cnt_origami_using_2_step_hybridization_and_classic_bond.md" >}}) {#cnt-origami-using-2-step-hybridization-and-classic-bond--cnt-origami-using-2-step-hybridization-and-classic-bond-dot-md}
+## [CNT:Origami using 2 Step Hybridization and Classic Bond]({{< relref "experimental_approach_cnt_origami_using_2_step_hybridization_and_classic_bond.md" >}}) {#cnt-origami-using-2-step-hybridization-and-classic-bond--experimental-approach-cnt-origami-using-2-step-hybridization-and-classic-bond-dot-md}
 
 
-## [Using Short Phosphorothioate Strands to Form CNT:QDs]({{< relref "using_short_phosphorothioate_strands_to_form_cnt_qds.md" >}}) {#using-short-phosphorothioate-strands-to-form-cnt-qds--using-short-phosphorothioate-strands-to-form-cnt-qds-dot-md}
+## [Using Short Phosphorothioate Strands to Form CNT:QDs]({{< relref "experimental_approach_using_short_phosphorothioate_strands_to_form_cnt_qds.md" >}}) {#using-short-phosphorothioate-strands-to-form-cnt-qds--experimental-approach-using-short-phosphorothioate-strands-to-form-cnt-qds-dot-md}

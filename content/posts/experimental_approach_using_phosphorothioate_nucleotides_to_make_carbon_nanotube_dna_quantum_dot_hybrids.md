@@ -1,5 +1,5 @@
 +++
-title = "Using Phosphorothioate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids"
+title = "Experimental Approach: Using Phosphorothioate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids"
 author = ["Durham Smith"]
 draft = false
 +++

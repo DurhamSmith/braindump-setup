@@ -13,7 +13,7 @@ This linker uses a single self complementary strand, thus both binding regions a
 -   Bond Types
     -   Either [Zip Bonds]({{< relref "dna_bond_types.md#zip-bond" >}}) or [Classic Bonds]({{< relref "dna_bond_types.md#classic-bond" >}}) can be used.
 -   Bonding Schemes
-    -   [DNA:CNT Toehold Mediated Strand Displacement Linker]({{< relref "dna_cnt_toehold_mediated_strand_displacement_linker.md" >}}) or
+    -   [DNA:CNT Toehold Mediated Strand Displacement Linker]({{< relref "experimental_approach_dna_cnt_toehold_mediated_strand_displacement_linker.md" >}}) or
 
 <a id="figure--fig:cnt-dna-staggered-linker"></a>
 

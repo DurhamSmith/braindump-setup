@@ -1,5 +1,5 @@
 +++
-title = "Watson-Crick Bonding of QD:DNA to DNA Origami"
+title = "Experimental Approach: Watson-Crick Bonding of QD:DNA to DNA Origami"
 author = ["Durham Smith"]
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Using Short Phosphorothioate Strands to Form CNT:QDs"
+title = "Experimental Approach: Using Short Phosphorothioate Strands to Form CNT:QDs"
 author = ["Durham Smith"]
 draft = false
 +++

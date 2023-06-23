@@ -1,5 +1,5 @@
 +++
-title = "DNA:CNT Toehold Mediated Strand Displacement Linker"
+title = "Experimental Approach: DNA:CNT Toehold Mediated Strand Displacement Linker"
 author = ["Durham Smith"]
 draft = false
 +++
@@ -30,7 +30,7 @@ draft = false
 
 ### Zip Bonds {#zip-bonds}
 
-Distance see [1](#org607851a)
+Distance see [1](#org722c543)
 
 <a id="figure--fig:dna-cnt-tmsd-linker-distance-zip"></a>
 

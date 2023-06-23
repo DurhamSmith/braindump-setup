@@ -38,4 +38,20 @@ Re-preparation of sample
 
 ## Sample: 2023-05-31 CNT:DNA(T10-3'thiol) Not Reduced 2x Supernatant {#sample-2023-05-31-cnt-dna--t10-3-thiol--not-reduced-2x-supernatant}
 
+-   Concentration
+
+<!--listend-->
+
+```lisp
+(let* ((A730 4.287)
+       (e730 7.9e6)
+       (pathlength 1) ;; in CM
+       (molar-mass 170e3)
+       (c730 (/ A730 (* e730 pathlength)))
+       )
+  (list "Molarity (approx)" (* c730 1) "g/L (check units)" (* c730 molar-mass)))
+;(* 16e-9 170e3)
+```
+
+= 92.225mg/L
 This sample follows the above protocols but stops at step 7

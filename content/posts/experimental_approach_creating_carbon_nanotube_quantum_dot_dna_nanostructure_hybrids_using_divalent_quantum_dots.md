@@ -1,5 +1,5 @@
 +++
-title = "Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using Divalent Quantum Dots"
+title = "Experimental Approach: Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using Divalent Quantum Dots"
 author = ["Durham Smith"]
 draft = false
 +++

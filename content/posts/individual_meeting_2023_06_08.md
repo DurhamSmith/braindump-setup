@@ -13,7 +13,7 @@ draft = false
     -   When not reducing before dispersal I managed to get DNA:CNT but not great QD attachment (I think)
         -   [Sample: 2023-05-31 CNT:DNA(T10-3'thiol)]({{< relref "sample_2023_05_31_cnt_dna_t10_3_thiol.md" >}})
         -   [Sample: 2023-06-01 CNT:DNA(T10-3'thiol):QD]({{< relref "sample_2023_06_01_cnt_dna_t10_3_thiol_qd.md" >}})
--   Spoke to authors of CNT-Trenches<sup><a href="#citeproc_bib_item_1">1</a></sup> paper about [DNA Brick CNT:QD Trenches]({{< relref "dna_brick_cnt_qd_trenches.md" >}}) ideas and they recommend<sup><a href="#citeproc_bib_item_2">2</a></sup> approach and 32nt (not 52nt) bricks for best yeilds.
+-   Spoke to authors of CNT-Trenches<sup><a href="#citeproc_bib_item_1">1</a></sup> paper about [DNA Brick CNT:QD Trenches]({{< relref "experimental_approach_dna_brick_cnt_qd_trenches.md" >}}) ideas and they recommend<sup><a href="#citeproc_bib_item_2">2</a></sup> approach and 32nt (not 52nt) bricks for best yeilds.
 -   Will submit review of DNA29 paper today sometime after this meeting.
 
 
@@ -25,7 +25,7 @@ draft = false
         -   Is there some chemical I could add instead?
 -   Remake [Sample: 2023-05-22 CNT:AC3-GT3 Retentate + QD Retentate]({{< relref "sample_2023_05_22_cnt_ac3_gt3_retentate_qd_retentate.md" >}}) at higher NaCl to see if we can get higher density of QDs on CNT:DNA
 -   Try hybridization of CNT:DNA to QD:DNA again
--   Design [DNA Brick CNT:QD Trenches]({{< relref "dna_brick_cnt_qd_trenches.md" >}})
+-   Design [DNA Brick CNT:QD Trenches]({{< relref "experimental_approach_dna_brick_cnt_qd_trenches.md" >}})
 -   Try bind QD:DNA to DNA Sheet using hybridization
     -   Maybe make these QDs<sup><a href="#citeproc_bib_item_3">3</a></sup>
 

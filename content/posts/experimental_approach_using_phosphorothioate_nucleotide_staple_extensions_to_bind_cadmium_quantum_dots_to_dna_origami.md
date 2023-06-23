@@ -1,5 +1,5 @@
 +++
-title = "Using Phosphorothioate Nucleotide Staple Extensions to Bind Cadmium Quantum Dots to DNA Origami"
+title = "Experimental Approach: Using Phosphorothioate Nucleotide Staple Extensions to Bind Cadmium Quantum Dots to DNA Origami"
 author = ["Durham Smith"]
 draft = false
 +++

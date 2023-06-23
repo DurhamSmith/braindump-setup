@@ -1,5 +1,5 @@
 +++
-title = "Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using a Staggered Linker"
+title = "Experimental Approach: Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using a Staggered Linker"
 author = ["Durham Smith"]
 draft = false
 +++

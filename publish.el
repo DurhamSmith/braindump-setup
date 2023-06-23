@@ -44,3 +44,4 @@
 (publish-all-org-file-in-directory "/home/user/org/greg_meetings/2023-04-29/Experimental_Approaches")
 (publish-all-org-file-in-directory "/home/user/org/greg_meetings/2023-04-29/")
 (durham/publish "/home/user/org/greg_meetings/2023-04-29/sample_2023_06_01_cnt_dna_t10_3_thiol_qd.org")
+(durham/publish "/home/user/org/greg_meetings/2023-04-29/sample_2023_06_08_cnt_ac3_gt3_retentate_qd_retentate.org")

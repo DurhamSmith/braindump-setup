@@ -6,9 +6,9 @@ draft = false
 
 ## Current Experiments {#current-experiments}
 
--   Discuss [Using Phosphorothioate Nucleotides Staple Extensions to Bind Cadmium Quantum Dots to DNA Origami]({{< relref "using_phosphorothioate_nucleotide_staple_extensions_to_bind_cadmium_quantum_dots_to_dna_origami.md" >}})
--   Discuss [Watson-Crick Bonding of QD:DNA to DNA Origami]({{< relref "watson_crick_bonding_of_qd_dna_to_dna_origami.md" >}})
--   Discuss [Using Phosphorothioate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids]({{< relref "using_phosphorothioate_nucleotides_to_make_carbon_nanotube_dna_quantum_dot_hybrids.md" >}})
+-   Discuss [Using Phosphorothioate Nucleotides Staple Extensions to Bind Cadmium Quantum Dots to DNA Origami]({{< relref "experimental_approach_using_phosphorothioate_nucleotide_staple_extensions_to_bind_cadmium_quantum_dots_to_dna_origami.md" >}})
+-   Discuss [Watson-Crick Bonding of QD:DNA to DNA Origami]({{< relref "experimental_approach_watson_crick_bonding_of_qd_dna_to_dna_origami.md" >}})
+-   Discuss [Using Phosphorothioate Nucleotides to Make Carbon Nanotube, DNA, Quantum Dot Hybrids]({{< relref "experimental_approach_using_phosphorothioate_nucleotides_to_make_carbon_nanotube_dna_quantum_dot_hybrids.md" >}})
 -   Discuss [Binding CNT:DNA To DNA Nanostructures]({{< relref "binding_cnt_dna_to_dna_nanostructures.md" >}})
     -   [Sample: 2023 04 26 Ultracentrifugation 50k Yifeng Sheet Row 14 Extensions With DNA:CNTs]({{< relref "sample_2023_04_26_ultracentrifugation_50k_yifeng_sheet_row_14_extensions_with_dna_cnts.md" >}})
     -   [Sample: 2023 04 26 Ultracentrifugation 50k Yifeng Sheet Col 14 Extensions With DNA:CNTs]({{< relref "sample_2023_04_26_ultracentrifugation_50k_yifeng_sheet_col_14_extensions_with_dna_cnts.md" >}})
@@ -16,8 +16,8 @@ draft = false
 
 ## New Designs {#new-designs}
 
--   [Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using Divalent Quantum Dots]({{< relref "creating_carbon_nanotube_quantum_dot_dna_nanostructure_hybrids_using_divalent_quantum_dots.md" >}})
--   [Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using a Staggered Linker]({{< relref "creating_carbon_nanotube_quantum_dot_dna_nanostructure_hybrids_using_a_staggered_linker.md" >}})
+-   [Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using Divalent Quantum Dots]({{< relref "experimental_approach_creating_carbon_nanotube_quantum_dot_dna_nanostructure_hybrids_using_divalent_quantum_dots.md" >}})
+-   [Creating Carbon Nanotube, Quantum Dot, DNA Nanostructure Hybrids Using a Staggered Linker]({{< relref "experimental_approach_creating_carbon_nanotube_quantum_dot_dna_nanostructure_hybrids_using_a_staggered_linker.md" >}})
 
 
 ## Observations {#observations}
