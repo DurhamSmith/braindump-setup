@@ -34,7 +34,7 @@ The required transfer volume is: 6.213282e-6
         -   33C Hold for 9h
         -   33C &rarr; 23C at 0.1C/min
 
-    {{< figure src="/ox-hugo/83_x_89_nm_rectangle_sheet_row_14_exts.png" >}}
+    {{< figure src="/ox-hugo/83_x_89_nm_rectangle_sheet_row_2_exts.png" >}}
 
 
 ## TEM {#tem}
