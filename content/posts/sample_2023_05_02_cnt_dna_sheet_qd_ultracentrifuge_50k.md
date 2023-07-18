@@ -20,5 +20,5 @@ draft = false
        (molar-mass 170e3)
        (c730 (/ A730 (* e730 pathlength)))
        )
-  (list "Mols (approx)" (* c730 1) "ug/mL (check units)" (* c730 molar-mass)))
+  (list "Mols (approx)" (* c730 1) "ug/mL (or mg/L)" (* c730 molar-mass)))
 ```

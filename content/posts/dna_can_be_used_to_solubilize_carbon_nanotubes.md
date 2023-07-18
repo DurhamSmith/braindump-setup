@@ -25,10 +25,20 @@ Everything else being equal, DNA-metallic CNT is predicted to have less surface 
 | Sun 2020   | 0.1        | 25uM (~0.466255mg/ml I think)      | Unspecified | 1× TBE and 100 mM NaCl at pH 8.3          |
 
 
-## molar extinction coefficient of SWNT ε ≈7.9 × 106 M–1·cm–1 {#molar-extinction-coefficient-of-swnt-ε-7-dot-9-106-m-1-cm-1}
+## Conversion of mg/L to molarity {#conversion-of-mg-l-to-molarity}
+
+-   CNTS have molecular mass 170 kDa, length 150 nm, diameter 1.2 nm <sup><a href="#citeproc_bib_item_3">3</a></sup>
+
+-   If you have nM multiply by 0.17 to get mg/L
+-   If you have the mg/L multiply by `5.882353` to get nM.
+
+-   Used this strategy <sup><a href="#citeproc_bib_item_4">4</a></sup>
+
+
+## molar extinction coefficient of SWNT ε ≈7.9 × 10^6 M–1·cm–1 {#molar-extinction-coefficient-of-swnt-ε-7-dot-9-10-6-m-1-cm-1}
 
 -   <sup><a href="#citeproc_bib_item_3">3</a></sup>
--   Supp Info <sup><a href="#citeproc_bib_item_4">4</a></sup>
+-   Supp Info <sup><a href="#citeproc_bib_item_5">5</a></sup>
 
 <!--listend-->
 
@@ -39,7 +49,7 @@ Everything else being equal, DNA-metallic CNT is predicted to have less surface 
        (molar-mass 170e3)
        (c730 (/ A730 (* e730 pathlength)))
        )
-  (list "Mols (approx)" (* c730 1) "ug/mL (check units)" (* c730 molar-mass)))
+  (list "Mols (approx)" (* c730 1) "ug/mL (or mg/L)" (* c730 molar-mass)))
 ;(* 16e-9 170e3)
 ```
 
@@ -57,6 +67,9 @@ Everything else being equal, DNA-metallic CNT is predicted to have less surface 
     <div class="csl-left-margin">3.</div><div class="csl-right-inline">Kam, N. W. S., O’Connell, M., Wisdom, J. A. &#38; Dai, H. <a href="https://doi.org/10.1073/pnas.0502680102">Carbon nanotubes as multifunctional biological transporters and near-infrared agents for selective cancer cell destruction</a>. <i>Proceedings of the national academy of sciences</i> <b>102</b>, 11600–11605 (2005).</div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Vogel, S. R., Kappes, M. M., Hennrich, F. &#38; Richert, C. <a href="https://doi.org/10.1002/chem.200600988">An unexpected new optimum in the structure space of dna solubilizing single-walled carbon nanotubes</a>. <i>Chemistry - a european journal</i> <b>13</b>, 1815–1820 (2007).</div>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Campbell, J. F., Tessmer, I., Thorp, H. H. &#38; Erie, D. A. <a href="https://doi.org/10.1021/ja801720c">Atomic force microscopy studies of dna-wrapped carbon nanotube structure and binding to quantum dots</a>. <i>Journal of the american chemical society</i> <b>130</b>, 10648–10655 (2008).</div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Vogel, S. R., Kappes, M. M., Hennrich, F. &#38; Richert, C. <a href="https://doi.org/10.1002/chem.200600988">An unexpected new optimum in the structure space of dna solubilizing single-walled carbon nanotubes</a>. <i>Chemistry - a european journal</i> <b>13</b>, 1815–1820 (2007).</div>
   </div>
 </div>

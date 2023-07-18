@@ -56,15 +56,6 @@ This uses [Beer–Lambert law]({{< relref "beer_lambert_law.md" >}}) and the siz
   Molarity)
 ```
 
-## References
-
-<style>.csl-left-margin{float: left; padding-right: 0em;}
- .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
-    <div class="csl-left-margin">1.</div><div class="csl-right-inline">Yu, W. W., Qu, L., Guo, W. &#38; Peng, X. <a href="https://doi.org/10.1021/cm034081k">Experimental determination of the extinction coefficient of cdte, cdse, and cds nanocrystals</a>. <i>Chemistry of materials</i> <b>15</b>, 2854–2860 (2003).</div>
-  </div>
-</div>
-
 
 ## Experimental Observations {#experimental-observations}
 
@@ -73,3 +64,12 @@ This uses [Beer–Lambert law]({{< relref "beer_lambert_law.md" >}}) and the siz
     -   17mM HEPES
     -   17mM HEPES + 6mM Mg2+
     -   6mM Mg2+
+
+## References
+
+<style>.csl-left-margin{float: left; padding-right: 0em;}
+ .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
+    <div class="csl-left-margin">1.</div><div class="csl-right-inline">Yu, W. W., Qu, L., Guo, W. &#38; Peng, X. <a href="https://doi.org/10.1021/cm034081k">Experimental determination of the extinction coefficient of cdte, cdse, and cds nanocrystals</a>. <i>Chemistry of materials</i> <b>15</b>, 2854–2860 (2003).</div>
+  </div>
+</div>
